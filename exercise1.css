@@ -1,0 +1,26 @@
+/*A class to change the header*/
+h1 {
+    border-style: solid;
+    border-color: mediumblue;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 200px
+}
+
+
+.strong{
+    font-weight: bold;
+}
+
+.change{
+    list-style-type: none
+}
+
+.change2{
+    font-style: italic;
+ }

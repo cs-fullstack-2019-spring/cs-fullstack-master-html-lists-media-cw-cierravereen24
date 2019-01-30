@@ -1,0 +1,10 @@
+aside{
+    height: 350px;
+    width: 525px;
+}
+
+li{
+    background: url("img/cake.PNG") 0 50% no-repeat;
+    list-style-type: none;
+    padding-left: 12px;
+}

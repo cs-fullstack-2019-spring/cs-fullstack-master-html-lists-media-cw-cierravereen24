@@ -1,3 +1,6 @@
+### 1 POINTS
+### KEY: Not bad, and good start on 2nd exercise. 
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
